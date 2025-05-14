@@ -1,3 +1,4 @@
+
 # NetSecurePro-Mobile
 
 **Application de messagerie intelligente en temps réel**  
@@ -13,3 +14,10 @@ Basée sur **FastAPI**, **Vue.js** et **WebSocket**
 ## Cloner le dépôt
 ```bash
 git clone https://github.com/milyes/NetSecurePro-Mobile.git
+
+Auteur
+
+Mohammed Ilyes Zoubirou
+LinkedIn
+
+
