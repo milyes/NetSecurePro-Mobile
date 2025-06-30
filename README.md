@@ -26,3 +26,8 @@
 
 ```bash
 git clone https://github.com/milyes/NetSecurePro-Mobile.git
+
+
+
+Souhaites-tu que je t’envoie ce `README.md` dans un fichier prêt à placer dans ton dépôt GitHub ?  
+Et veux-tu que je crée aussi un QR code image pour téléchargement direct ?
