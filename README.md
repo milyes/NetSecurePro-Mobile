@@ -1,3 +1,4 @@
+
 # 📱 NetSecurePro-Mobile
 
 > ✅ Application mobile Flutter WebView intégrée à la plateforme **NetSecurePro IA**.  
@@ -26,8 +27,67 @@
 
 ```bash
 git clone https://github.com/milyes/NetSecurePro-Mobile.git
+```
 
+---
 
+## 📥 Télécharger l'APK
 
-Souhaites-tu que je t’envoie ce `README.md` dans un fichier prêt à placer dans ton dépôt GitHub ?  
-Et veux-tu que je crée aussi un QR code image pour téléchargement direct ?
+> **Version mobile APK compilée disponible ici** :  
+> 📦 [`NetSecurePro-Mobile-Final.apk`](https://github.com/milyes/NetSecurePro-Mobile/releases) *(ou ajouter le lien direct)*
+
+### 🔍 Scanner le QR Code
+
+![QR Code NetSecurePro APK](attached_assets/qr_code_netsecurepro_mobile.png)
+
+---
+
+## 📲 Installation APK (Android)
+
+1. Activez **"Sources inconnues"** dans les paramètres Android.
+2. Transférez l’APK sur votre mobile ou scannez le QR.
+3. Cliquez sur l’APK pour installer.
+4. Ouvrez l'application ➜ Interface IA embarquée.
+
+---
+
+## 🛠️ Structure du dépôt
+
+```
+NetSecurePro-Mobile/
+├── assets/
+├── lib/
+│   └── main.dart
+├── web/
+│   └── index.html
+├── android/
+├── ios/
+├── pubspec.yaml
+├── README.md
+└── attached_assets/
+    └── qr_code_netsecurepro_mobile.png
+```
+
+---
+
+## 👨‍💻 Auteur
+
+**Mohammed Ilyes Zoubirou**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-ilyes-zoubirou)  
+📘 [ORCID](https://orcid.org/0009-0007-7571-3178)
+
+---
+
+## 📄 Licence
+
+Ce projet est sous licence **MIT** – voir le fichier [`LICENSE`](LICENSE) pour plus d’informations.
+
+---
+
+## 💬 Contact professionnel
+
+> Pour toute collaboration, optimisation IA mobile, ou personnalisation APK :  
+📧 milyes@wardam.me  
+🌐 Plateforme officielle : **NetSecurePro IA**
+
+---
